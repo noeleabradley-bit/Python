@@ -1,0 +1,131 @@
+MySQL/main.py
+MySQL/funcs/db_manager.py
+MySQL/funcs/validators.py
+
+======================================
+        MY_FUNCS CONTROL CORE         
+======================================
+1. Manually Provision New Employee
+2. Display Database Table Snapshots
+3. Exit Application Space
+Selection: 2
+
+--- Employees Base Table ---
+ID: 1 | Name: Norman Bruett | DOB: 1900-05-16
+ID: 2 | Name: Tommy Wannamaker | DOB: 1967-03-13
+ID: 3 | Name: Bill Hapscomb | DOB: 1956-04-21
+ID: 4 | Name: Henry Carmichael | DOB: 1976-04-21
+ID: 5 | Name: Jack Lemon | DOB: 1976-03-14
+
+--- Employee Details Profile Table ---
+ID: 1 | Address: 1200 Rodeo Drive, El Centro | Phone: 0013455053456
+ID: 2 | Address: 1200 Basket Drive, El Nero | Phone: 0013455053999
+ID: 5 | Address: 678, Imperial | Phone: 00447654321
+
+
+======================================
+        MY_FUNCS CONTROL CORE         
+======================================
+1. Manually Provision New Employee
+2. Display Database Table Snapshots
+3. Exit Application Space
+Selection: 2
+
+--- Employees Base Table ---
+ID: 1 | Name: Norman Bruett | DOB: 1900-05-16
+ID: 2 | Name: Tommy Wannamaker | DOB: 1967-03-13
+ID: 3 | Name: Bill Hapscomb | DOB: 1956-04-21
+ID: 4 | Name: Henry Carmichael | DOB: 1976-04-21
+ID: 5 | Name: Jack Lemon | DOB: 1976-03-14
+
+--- Employee Details Profile Table ---
+ID: 1 | Address: 1200 Rodeo Drive, El Centro | Phone: 0013455053456
+ID: 2 | Address: 1200 Basket Drive, El Nero | Phone: 0013455053999
+ID: 5 | Address: 678, Imperial | Phone: 00447654321
+
+======================================
+        MY_FUNCS CONTROL CORE         
+======================================
+1. Manually Provision New Employee
+2. Display Database Table Snapshots
+3. Exit Application Space
+
+======================================
+        MY_FUNCS CONTROL CORE         
+======================================
+1. Manually Provision New Employee
+2. Display Database Table Snapshots
+3. Exit Application Space
+Selection: 2
+
+--- Employees Base Table ---
+ID: 1 | Name: Norman Bruett | DOB: 1900-05-16
+ID: 2 | Name: Tommy Wannamaker | DOB: 1967-03-13
+ID: 3 | Name: Bill Hapscomb | DOB: 1956-04-21
+ID: 4 | Name: Henry Carmichael | DOB: 1976-04-21
+ID: 5 | Name: Jack Lemon | DOB: 1976-03-14
+
+--- Employee Details Profile Table ---
+ID: 1 | Address: 1200 Rodeo Drive, El Centro | Phone: 0013455053456
+ID: 2 | Address: 1200 Basket Drive, El Nero | Phone: 0013455053999
+ID: 5 | Address: 678, Imperial | Phone: 00447654321
+
+======================================
+        MY_FUNCS CONTROL CORE         
+======================================
+1. Manually Provision New Employee
+2. Display Database Table Snapshots
+3. Exit Application Space
+Selection: 1
+
+--- [Step 1] Base Employee Information ---
+First Name: Frank
+Last Name: Kindle
+Date of Birth (YYYY-MM-DD): 1968
+Invalid date format! Try again.
+Date of Birth (YYYY-MM-DD): 1968-03-15
+-> Base employee profile saved. Generated ID: 6
+
+--- [Step 2] Contact & Address Information ---
+Address Line 1: 20C Bradlock Lane
+Address Line 2 (Optional): 
+City: Bradshaw
+State/Province/Region: NJ
+Postal Code: 28973
+Country Code (2 characters, e.g., US): US
+Phone Number (International format, e.g., 0013455053456): 
+Error: This field cannot be left blank.
+Phone Number (International format, e.g., 0013455053456): 
+Error: This field cannot be left blank.
+Phone Number (International format, e.g., 0013455053456): 0012024569831
+
+Warning: Profile was established, but address processing failed.
+
+======================================
+        MY_FUNCS CONTROL CORE         
+======================================
+1. Manually Provision New Employee
+2. Display Database Table Snapshots
+3. Exit Application Space
+Selection: 2
+
+--- Employees Base Table ---
+ID: 1 | Name: Norman Bruett | DOB: 1900-05-16
+ID: 2 | Name: Tommy Wannamaker | DOB: 1967-03-13
+ID: 3 | Name: Bill Hapscomb | DOB: 1956-04-21
+ID: 4 | Name: Henry Carmichael | DOB: 1976-04-21
+ID: 5 | Name: Jack Lemon | DOB: 1976-03-14
+ID: 6 | Name: Frank Kindle | DOB: 1968-03-15
+
+--- Employee Details Profile Table ---
+ID: 1 | Address: 1200 Rodeo Drive, El Centro | Phone: 0013455053456
+ID: 2 | Address: 1200 Basket Drive, El Nero | Phone: 0013455053999
+ID: 5 | Address: 678, Imperial | Phone: 00447654321
+ID: 6 | Address: 20C Bradlock Lane, Bradshaw | Phone: 0012024569831
+
+======================================
+        MY_FUNCS CONTROL CORE         
+======================================
+1. Manually Provision New Employee
+2. Display Database Table Snapshots
+3. Exit Application Space
